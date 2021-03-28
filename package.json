@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-reverse-proxy",
+  "version": "1.0.0",
+  "description": "A way to get websites showing up through proxy on a single domain.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janaSunrise/nodejs-reverse-proxy.git"
+  },
+  "keywords": [
+    "nodejs",
+    "proxy",
+    "reverse-proxy"
+  ],
+  "author": "Sunrit Jana",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/janaSunrise/nodejs-reverse-proxy/issues"
+  },
+  "homepage": "https://github.com/janaSunrise/nodejs-reverse-proxy#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
