@@ -26,4 +26,4 @@ http
   
   .listen(8080);
 
-console.log("proxy server live at http://localhost:8080/");
+console.log("Proxy server live at http://localhost:8080/");
